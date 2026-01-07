@@ -1,0 +1,39 @@
+body {
+  background: #f4f4f4;
+  font-family: Arial;
+}
+
+.app {
+  text-align: center;
+}
+
+.chat-box {
+  width: 60%;
+  margin: auto;
+  background: white;
+  padding: 15px;
+  height: 400px;
+  overflow-y: auto;
+  border-radius: 8px;
+}
+
+.user {
+  text-align: right;
+  color: blue;
+  margin: 10px;
+}
+
+.assistant {
+  text-align: left;
+  color: green;
+  margin: 10px;
+}
+
+input {
+  width: 75%;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+}
